@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Chamoli
-- 👀 I’m interested in techy things ...
-- 🌱 I’m currently learning (How to use github) ...
-- 💞️ I’m looking to collaborate on (currently nothing) ...
-- 📫 How to reach me ...
-
-<!---
-Chamoli2k2/Chamoli2k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there My name is Chamoli.
+I am noob in open source world.
+High affinity toward learning new things.
