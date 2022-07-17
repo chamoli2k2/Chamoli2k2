@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Chamoli2k2/Chamoli2k2/blob/master/github-white-2ffa9db8c744260083289a6da771d8bc.png)
+
 <h1 align="center">Hi 👋, I'm Chamoli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
