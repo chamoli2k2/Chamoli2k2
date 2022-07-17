@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamoli2k2&label=Profile%20views&color=0e75b6&style=flat" alt="chamoli2k2" /> </p>
 
-<p><img align="left" width = "400" height = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamoli2k2&show_icons=true&locale=en&layout=compact" alt="chamoli2k2" /></p>
+<p><img align="left" width = "400" height = "300" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamoli2k2&show_icons=true&locale=en&layout=compact" alt="chamoli2k2" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamoli2k2" alt="chamoli2k2" /></a> </p>
 
