@@ -1,5 +1,5 @@
 <img align = "center" src = "banner.png">
-<h1 align="center">Hi 👋, I'm Chamoli</h1>
+<h1 align="center">Hi 👋, Myself Chamoli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" src = "coding.gif" width = "400" >
 
