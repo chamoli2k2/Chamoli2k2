@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamoli2k2&show_icons=true&locale=en" alt="chamoli2k2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamoli2k2&" alt="chamoli2k2" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/_chamoli_?ext=heatmap)
+
